@@ -1,6 +1,6 @@
 ![AuroraWDC](https://aurorawdc.com/wp-content/uploads/2017/09/AWDC-Logo-V1.png)
 
-# Welcome to the CUW Hackathon Fall 2023 sponsored by Aurora WDC! 
+# CUW Hackathon Fall 2023 sponsored by Aurora WDC! 
 
 ## Challenge overview
 
