@@ -16,6 +16,12 @@ Alumni and their monied peers across their spheres of influence will now have an
 
 In this challenge, you will explore [Nostr](https://nostr.com/) which is based on the [Bitcoin](https://bitcoin.org/en/) ecosystem in order to create a decentralized social network for CUW Alumni. The Social network should include a _Page_ with sample projects that Alumni can _Donate To_ If it is interesting to them (i.e. has a button to Donate in Satoshis or Bitcoin).
 
+### Sample Projects Provided by Concordia:
+
+* [New Engineering Program](https://blog.cuw.edu/kumpaty-engineering-chair/)
+* [Interprofessional Clinic](https://blog.cuw.edu/serving-the-students-and-serving-the-community-through-physical-therapy/)
+* [Aquaponics](https://blog.cuw.edu/tmj4-concordias-aquaponics-system-produces-year-round-vegetation/)
+
 ### Regarding Bitcoins and Wallets: 
 
   - I have found that the app [BitPay](https://bitpay.com) will be beneficial for the purpose of testing
